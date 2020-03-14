@@ -1,0 +1,5 @@
+mkdir hackerdirectory
+cd hackerdirectory
+cat  > hackerfile
+#after press ctrl-d
+cp hackerfile /root/secretfile
