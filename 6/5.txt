@@ -1,0 +1,4 @@
+leafpad
+#open leafpad and write my script save with neme script in root
+at 1:00am march 18
+/root/script

@@ -1,0 +1,6 @@
+#open file first
+leafpad /etc/logrotate.conf
+
+
+#then change rotate to 1 week
+rotate 1

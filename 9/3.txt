@@ -1,0 +1,6 @@
+#compress our file
+gzip L4H.*
+
+
+#uncompress that file
+gunzip L4H.*

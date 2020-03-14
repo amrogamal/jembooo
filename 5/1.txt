@@ -1,0 +1,2 @@
+ls -l alo
+#or any directory,it has all permissions

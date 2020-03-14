@@ -1,0 +1,4 @@
+leafpad /etc/resolv.conf
+#and that line in that file
+nameserver 8.8.8.8
+#then save

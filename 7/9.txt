@@ -1,0 +1,2 @@
+PS1="world's greatest hacker"
+export PS1

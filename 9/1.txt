@@ -1,0 +1,8 @@
+#fist script it's name (linux4hacker1)
+echo "firstscript"
+
+#second script it's name (linux4hacker2)
+echo "secondscript"
+
+#third script it's name (linux4hacker3)
+echo "thirdscript"

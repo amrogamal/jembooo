@@ -1,0 +1,5 @@
+#!/bin/bash
+# This script is designed to find hosts with 
+nmap -sT 192.168.1.7/24 -p 1433 >/dev/null -oG microsoftscan
+cat microsoftscan | grep open >microsoftscan2
+cat microsoftscan2

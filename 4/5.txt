@@ -1,0 +1,2 @@
+git clone https://www.github.com/balle/bluediving.git
+#or any github url of your software

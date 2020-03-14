@@ -1,0 +1,12 @@
+#compress file with bzip
+bzip2 L4H.*
+
+#uncompress that file
+bunzip2 L4H.*
+
+
+#compress file with compress
+compress L4H.*
+
+#uncompress that file
+uncompress L4H.*
