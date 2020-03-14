@@ -1,0 +1,1 @@
+cat password.lst | grep 123
