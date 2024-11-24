@@ -1,3 +1,0 @@
-ifconfig eth0 down	
-ifconfig eth0 hw ether 08:00:27:9c:04:a9
-ifconfig eth0 up
