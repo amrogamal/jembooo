@@ -1,2 +1,0 @@
-unmount /dev/sdb1
-fsck -p /dev/sdb1

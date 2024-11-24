@@ -1,1 +1,0 @@
-dd if=/dev/sdb1 of=/root/sdb1copy
