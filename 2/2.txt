@@ -1,2 +1,0 @@
-cat password.lst
-#in my device there isn't passwords (no s)
