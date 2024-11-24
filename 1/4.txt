@@ -1,4 +1,0 @@
-cat > hello
-ay bianaat
-#after exit with ctrl-d 
-cat >> hello
